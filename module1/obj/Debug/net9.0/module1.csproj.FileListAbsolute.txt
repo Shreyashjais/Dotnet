@@ -1,0 +1,15 @@
+/home/user/Desktop/Dotnet/module1/bin/Debug/net9.0/module1
+/home/user/Desktop/Dotnet/module1/bin/Debug/net9.0/module1.deps.json
+/home/user/Desktop/Dotnet/module1/bin/Debug/net9.0/module1.runtimeconfig.json
+/home/user/Desktop/Dotnet/module1/bin/Debug/net9.0/module1.dll
+/home/user/Desktop/Dotnet/module1/bin/Debug/net9.0/module1.pdb
+/home/user/Desktop/Dotnet/module1/obj/Debug/net9.0/module1.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktop/Dotnet/module1/obj/Debug/net9.0/module1.AssemblyInfoInputs.cache
+/home/user/Desktop/Dotnet/module1/obj/Debug/net9.0/module1.AssemblyInfo.cs
+/home/user/Desktop/Dotnet/module1/obj/Debug/net9.0/module1.csproj.CoreCompileInputs.cache
+/home/user/Desktop/Dotnet/module1/obj/Debug/net9.0/module1.sourcelink.json
+/home/user/Desktop/Dotnet/module1/obj/Debug/net9.0/module1.dll
+/home/user/Desktop/Dotnet/module1/obj/Debug/net9.0/refint/module1.dll
+/home/user/Desktop/Dotnet/module1/obj/Debug/net9.0/module1.pdb
+/home/user/Desktop/Dotnet/module1/obj/Debug/net9.0/module1.genruntimeconfig.cache
+/home/user/Desktop/Dotnet/module1/obj/Debug/net9.0/ref/module1.dll
