@@ -1,0 +1,15 @@
+/home/user/Desktop/Dotnet/module4/obj/Debug/net9.0/module4.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktop/Dotnet/module4/obj/Debug/net9.0/module4.AssemblyInfoInputs.cache
+/home/user/Desktop/Dotnet/module4/obj/Debug/net9.0/module4.AssemblyInfo.cs
+/home/user/Desktop/Dotnet/module4/obj/Debug/net9.0/module4.csproj.CoreCompileInputs.cache
+/home/user/Desktop/Dotnet/module4/obj/Debug/net9.0/module4.sourcelink.json
+/home/user/Desktop/Dotnet/module4/bin/Debug/net9.0/module4
+/home/user/Desktop/Dotnet/module4/bin/Debug/net9.0/module4.deps.json
+/home/user/Desktop/Dotnet/module4/bin/Debug/net9.0/module4.runtimeconfig.json
+/home/user/Desktop/Dotnet/module4/bin/Debug/net9.0/module4.dll
+/home/user/Desktop/Dotnet/module4/bin/Debug/net9.0/module4.pdb
+/home/user/Desktop/Dotnet/module4/obj/Debug/net9.0/module4.dll
+/home/user/Desktop/Dotnet/module4/obj/Debug/net9.0/refint/module4.dll
+/home/user/Desktop/Dotnet/module4/obj/Debug/net9.0/module4.pdb
+/home/user/Desktop/Dotnet/module4/obj/Debug/net9.0/module4.genruntimeconfig.cache
+/home/user/Desktop/Dotnet/module4/obj/Debug/net9.0/ref/module4.dll
